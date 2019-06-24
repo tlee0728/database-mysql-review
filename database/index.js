@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-const connection = new Sequelize('dbreview', 'root', '167234589Tl', {
+const connection = new Sequelize('dbreview', 'root', 'FILL_ME_OUT', {
     host: 'localhost',
     dialect: 'mysql'
 });
